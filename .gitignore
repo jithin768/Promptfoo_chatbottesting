@@ -1,0 +1,14 @@
+# Environment variables — never commit API keys
+.env
+.env.*
+!.env.example
+
+# Promptfoo output/cache
+.promptfoo/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
