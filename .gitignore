@@ -6,6 +6,10 @@
 # Promptfoo output/cache
 .promptfoo/
 
+# Keep results files tracked
+!assets/results.json
+!assets/results.csv
+
 # OS files
 .DS_Store
 Thumbs.db
